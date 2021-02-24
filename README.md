@@ -6,6 +6,7 @@
 [<img align="left" alt="fachrialviansyah | LinkedIn" width="22px" src="https://www.linkedin.com/in/fachrialviansyah-2197//icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="thisfachri | Instagram" width="22px" src="https://www.instagram.com/thisfachri/?hl=id/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://twitter.com/thisfachri/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 ## :zap: About Me
