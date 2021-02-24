@@ -17,3 +17,7 @@
 
 
 <br />
+
+[instagram]: https://instagram.com/thisfachri
+[linkedin]: https://linkedin.com/in/fachrialviansyah
+[twitter]: https://twitter.com/thisfachri
